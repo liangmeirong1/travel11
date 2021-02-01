@@ -1,7 +1,7 @@
 <template>
   <div class="header">
    <div class="left"><div class="iconfont fanhui">&#xe624;</div></div><!--iconfont类要写才能显示成功-->
-   <div class="input"><span class="iconfont ">&#xe632;</span>输入城市/景点/游玩</div>
+   <div class="input"><span class="iconfont ">&#xe632;</span>输入城市/景点/游玩/</div>
    <div class="right">城市<span class="iconfont">&#xe6aa;</span></div>
   </div>
 </template>
